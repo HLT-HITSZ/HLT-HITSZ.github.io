@@ -12,3 +12,10 @@
 |jiachendu|ICLR 2019 [LEARNING TO REPRESENT EDITS](https://arxiv.org/pdf/1810.13337.pdf)|[[slide]](./20190530-jiachendu-edit.pdf)|-|
 |-|[Text Infilling](https://arxiv.org/pdf/1901.00158.pdf)|-|-|
 |-|[TIGS: An Inference Algorithm for Text Infilling with Gradient Search](https://arxiv.org/pdf/1905.10752v1.pdf)|-|-|
+
+### 2019/05/31
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|ZhiyuanWen|Arxiv [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)|[[slide]](./20190531zhiyuanwen-focal.pdf)|-|
+|-|Technical Report [Multi-class classification with focal loss for imbalanced datasets](https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/)|-|-|
