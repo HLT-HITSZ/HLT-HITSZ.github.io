@@ -1,5 +1,5 @@
 ### Weekly Report:
-Link to collaborative document of weekly report: [HLT Weekly Report](https://docs.qq.com/doc/DZk9LR1ZYaklPc21z)
+Link to collaborative document of weekly report: 
 ### Guideline:
 - paper reading讲解的时候要深入浅出，确保自己看懂了，再用通俗的话讲出来。关键是把文章工作讲清楚，motivation，方法部分，实验是否支撑，该工作的优点和缺点，对你个人工作的启发。每部分大概2~3页slides即可。最重要的是后面两部分，需要你自己对工作批判性的阅读。
 - 时间暂定是周五晚上。 如果人不齐的话提前告知，视情况再确定时间。
