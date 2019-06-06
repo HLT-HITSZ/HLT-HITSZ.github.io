@@ -19,3 +19,10 @@
 |:----:|:----|:----:|:-----:|
 |ZhiyuanWen|Arxiv [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)|[[slide]](./20190531zhiyuanwen-focal.pdf)|-|
 |-|Technical Report [Multi-class classification with focal loss for imbalanced datasets](https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/)|-|-|
+
+### 2019/06/06
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|XiuCheng|ICLR 2017 [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/1609.02907.pdf)|-|-|
+|-|NIPC 2017 [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)|-|-|
