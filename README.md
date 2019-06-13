@@ -7,7 +7,7 @@ Link to collaborative document of weekly report:
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 --------------------
-### 2019/06/06
+### 2019/06/14
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
