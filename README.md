@@ -11,6 +11,17 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
+|BinLiang|COLING 2016 [Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)|-|-|
+|-|EMNLP 2016 [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058)|-|-|
+|-|EMNLP 2016 [Aspect Level Sentiment Classification with Deep Memory Network](https://www.aclweb.org/anthology/D16-1021)|-|-|
+|-|EMNLP 2016 [A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/D16-1103)|-|-|
+|-|ACL 2018 [Aspect Based Sentiment Analysis with Gated Convolutional Networks](https://www.aclweb.org/anthology/P18-1234)|-|-|
+|-|AAAI 2018 [Learning Latent Opinions for Aspect-Level Sentiment Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17327/16110)|-|-|
+
+### 2019/06/06
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
 |XiuCheng|ICLR 2017 [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/1609.02907.pdf)|-|-|
 |-|NIPC 2017 [Inductive Representation Learning on Large Graphs](https://www-cs-faculty.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)|-|-|
 
