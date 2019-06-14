@@ -11,7 +11,7 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|BinLiang|COLING 2016 [Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)|（https://github.com/HLT-HITSZ/HLT-HITSZ.github.io/blob/master/20190614-liangbin.pdf）|-|
+|BinLiang|COLING 2016 [Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)|-|-|
 |-|EMNLP 2016 [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058)|-|-|
 |-|EMNLP 2016 [Aspect Level Sentiment Classification with Deep Memory Network](https://www.aclweb.org/anthology/D16-1021)|-|-|
 |-|EMNLP 2016 [A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/D16-1103)|-|-|
