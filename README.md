@@ -11,13 +11,13 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|BinLiang|COLING 2016 [Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)|[[slide]](./20190614-liangbin.pdf.pdf)|-|
+|BinLiang|COLING 2016 [Effective LSTMs for Target-Dependent Sentiment Classification](https://www.aclweb.org/anthology/C16-1311)|[[slide]](./20190614-liangbin.pdf)|-|
 |-|EMNLP 2016 [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058)|-|-|
 |-|EMNLP 2016 [Aspect Level Sentiment Classification with Deep Memory Network](https://www.aclweb.org/anthology/D16-1021)|-|-|
 |-|EMNLP 2016 [A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/D16-1103)|-|-|
 |-|ACL 2018 [Aspect Based Sentiment Analysis with Gated Convolutional Networks](https://www.aclweb.org/anthology/P18-1234)|-|-|
 |-|AAAI 2018 [Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16541/16152)|-|-|
-|JianzhuBao|COLING 2016 [Multimodal Attention for Neural Machine Translation](https://arxiv.org/pdf/1609.03976.pdf)|[[slide]](./20190614-liangbin.pdf.pdf)|-|
+|JianzhuBao|COLING 2016 [Multimodal Attention for Neural Machine Translation](https://arxiv.org/pdf/1609.03976.pdf)|[[slide]](./20190614-jianzhubao.pdf)|-|
 |-|ACL 2017 [Attention Strategies for Multi-Source Sequence-to-Sequence Learning](https://arxiv.org/pdf/1704.06567.pdf)|-|-|
 |-|NAACL 2019 [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/pdf/1903.08678.pdf)|-|-|
 
