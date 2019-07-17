@@ -7,6 +7,12 @@ Link to collaborative document of weekly report:
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 --------------------
+### 2019/06/27
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|Yiping Yin|ACL 2019 [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://www.aclweb.org/anthology/C16-1311)|[[slide]](./20190614-liangbin.pdf)|-|
+
 ### 2019/06/14
 
 |Speakers|Papers|Slides|Others|
