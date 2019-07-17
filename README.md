@@ -11,7 +11,7 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Yiping Yin|ACL 2019 [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://www.aclweb.org/anthology/C16-1311)|[[slide]](./20190614-liangbin.pdf)|-|
+|YipingYin|ACL 2019 [Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks](https://www.aclweb.org/anthology/C16-1311)|[[slide]](./20190614-liangbin.pdf)|-|
 
 ### 2019/06/14
 
