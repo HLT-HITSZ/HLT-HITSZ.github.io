@@ -11,7 +11,7 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|BinLiang|NAACL 2019 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)|[[slide]](./Multilingual BERT.ppt)|-|
+|BinLiang|NAACL 2019 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423)|[[slide]](./Multilingual-BERT.ppt)|-|
 |BinLiang|NAACL 2019 [How multilingual is Multilingual BERT?](https://arxiv.org/pdf/1906.01502.pdf)|-|-|
 
 ### 2019/06/27
