@@ -12,7 +12,9 @@ Link to collaborative document of weekly report:
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
 |JianzhuBao|ACL 2017 [Neural End-to-End Learning for Computational Argumentation Mining](https://arxiv.org/pdf/1704.06104.pdf)|[[slide]](./20190911_jianzhubao.pptx)|-|
-|-|arXiv 2019 [How multilingual is Multilingual BERT?](https://arxiv.org/pdf/1906.01502.pdf)|-|-|
+|-|arXiv 2016 [Here’s My Point: Joint Pointer Architecture for Argument Mining](https://www.aclweb.org/anthology/D17-1143)|-|-|
+|-|ACL 2019 [Classiﬁcation and Clustering of Arguments with Contextualized Word Embeddings](https://www.aclweb.org/anthology/P19-1054)|-|-|
+|-|ACL 2019 [Decompositional Argument Mining: A General Purpose Approach for Argument Graph Construction](https://www.aclweb.org/anthology/P19-1049)|-|-|
 
 --------------------
 ### 2019/09/05
