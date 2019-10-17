@@ -11,7 +11,7 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|Lijiaming|ACL 2019 [Bridging the Gap between Training and Inference](https://arxiv.org/pdf/1906.02448.pdf)|[[slide]](./20191011-jiamingLi.pptx)|-|
+|JiamingLi|ACL 2019 [Bridging the Gap between Training and Inference](https://arxiv.org/pdf/1906.02448.pdf)|[[slide]](./20191011-jiamingLi.pptx)|-|
 
 --------------------
 ### 2019/09/05
