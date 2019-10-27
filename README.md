@@ -13,7 +13,6 @@ Link to collaborative document of weekly report:
 |:----:|:----|:----:|:-----:|
 |SuHang|ACL 2019 [Do you know that Florence is packed with visitors?Evaluating state-of-the-art models of speaker commitment](https://www.aclweb.org/anthology/P19-1412.pdf)|[[slide]](./20191025-SuHang.pptx)|-|
 
---------------------
 
 --------------------
 ### 2019/10/11
