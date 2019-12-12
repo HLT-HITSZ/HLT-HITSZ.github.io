@@ -11,8 +11,8 @@ Link to collaborative document of weekly report:
 
 |Speakers|Papers|Slides|Others|
 |:----:|:----|:----:|:-----:|
-|LanGongqiang|EMNLP 2019 Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://arxiv.org/pdf/1909.03477.pdf)|[[slide]](./2019-12-11蓝恭强.pptx)|-|
-|LiuYuhan|EMNLP 2019 A logic-Driven Framework for Consistency of Neural Models](https://arxiv.org/pdf/1909.00126.pdf)|[[slide]](./20191212-liuyuhan.pptx)|-|
+|LanGongqiang|EMNLP 2019 [Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://arxiv.org/pdf/1909.03477.pdf)|[[slide]](./2019-12-11蓝恭强.pptx)|-|
+|LiuYuhan|EMNLP 2019 [A logic-Driven Framework for Consistency of Neural Models](https://arxiv.org/pdf/1909.00126.pdf)|[[slide]](./20191212-liuyuhan.pptx)|-|
 
 
 --------------------
