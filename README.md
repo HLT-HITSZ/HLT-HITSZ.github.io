@@ -7,6 +7,14 @@ Link to collaborative document of weekly report:
 - 参与者希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 
 --------------------
+### 2019/12/12
+
+|Speakers|Papers|Slides|Others|
+|:----:|:----|:----:|:-----:|
+|LanGongqiang|EMNLP 2019 Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks](https://arxiv.org/pdf/1909.03477.pdf)|[[slide]](./2019-12-11蓝恭强.pptx)|-|
+
+
+--------------------
 ### 2019/10/25
 
 |Speakers|Papers|Slides|Others|
